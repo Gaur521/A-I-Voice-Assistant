@@ -1,0 +1,6 @@
+speechrecognition  # Converts voice to text
+pyttsx3  # Text-to-Speech conversion
+requests  # Makes HTTP requests (Used for API calls)
+datetime  # Handles date and time operations
+os  # Provides interaction with the operating system
+json  # Parses and handles JSON data
